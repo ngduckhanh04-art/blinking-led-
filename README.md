@@ -1,4 +1,4 @@
-Embedded_System_PTIT_Exercise_2
+
  Giới thiệu
 Bài tập 2 - Blinking LED
  Yêu cầu:
